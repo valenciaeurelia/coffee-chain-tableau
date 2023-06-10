@@ -1,4 +1,4 @@
-## Coffee Chain Data Visualization Project
+# Coffee Chain Data Visualization Project
 
 This project is developed as part of the final project for the Data Visualization course. Aims to analyze and visualize the Coffee Chain dataset obtained from [data.world](https://data.world/2918diy/coffee-chain). The dataset provides detailed information about sales, profit, inventory, and expenses for the coffee chain in different regions.
 
@@ -12,5 +12,4 @@ This project is developed as part of the final project for the Data Visualizatio
 * Tableau: Used to analyze and visualize data, and create interactive dashboards.
 
 ## Additional Resources
-* [Explanation Video](https://drive.google.com/file/d/1_HnGloXYbDShO2dxeXnjbDWxnO2yIQEQ/view?usp=sharing): Detailed explanation of the project and its findings.
-* [Tableau Showcase](https://drive.google.com/file/d/1_HnGloXYbDShO2dxeXnjbDWxnO2yIQEQ/view?usp=sharing): Interactive Tableau dashboard showcasing the visualizations and insights.
+[Explanation Video](https://drive.google.com/file/d/1_HnGloXYbDShO2dxeXnjbDWxnO2yIQEQ/view?usp=sharing) | [Tableau Showcase](https://drive.google.com/file/d/1_HnGloXYbDShO2dxeXnjbDWxnO2yIQEQ/view?usp=sharing)
